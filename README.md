@@ -1,2 +1,2 @@
 # SRB-Docker
-Test creating a docker image with SRBMiner-multi 3.6.3
+Test creating a docker image - do not use!
